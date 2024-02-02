@@ -1,0 +1,15 @@
+.testbutton {
+  font-family: arial;
+  color: #FFF !important;
+  font-size: 24px;
+  text-shadow: 1px 1px 0px #DED7D7;
+  box-shadow: 0px 1px 1px #F96161;
+  padding: 12px 8px;
+  border-radius: 12px;
+  border: 0px solid #3866A3;
+  background: #F96161;
+}
+.testbutton:hover {
+  color: #14396A !important;
+  background: #468CCF;
+}
